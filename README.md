@@ -1,6 +1,6 @@
 ![Screenshot](https://raw.githubusercontent.com/riganti/dotvvm-samples-questionme/main/images/qme-preview.PNG)
 
-## Question.me in DotVVM 4 sample
+## Question.me - DotVVM 4 sample
 
 This sample is a simple signalR based question sourcing web app. It demonstrates new features introduced in [DotVVM 4](https://github.com/riganti/dotvvm).
 
@@ -14,9 +14,11 @@ or
 `git clone https://github.com/riganti/dotvvm-samples-questionme.git`
 
 2. Open `src/QuestionMe.sln` 
+
 ![Open the solution file](https://raw.githubusercontent.com/riganti/dotvvm-samples-questionme/main/images/qme-howto1.png)
 
-5. Right-click `QuestionMe` project and select **View > View in Browser**
+3. Right-click `QuestionMe` project and select **View > View in Browser**
+
 ![View QuestionMe project in Browser](https://raw.githubusercontent.com/riganti/dotvvm-samples-questionme/main/images/qme-howto2.png)
 
 ### What you can learn in the sample
