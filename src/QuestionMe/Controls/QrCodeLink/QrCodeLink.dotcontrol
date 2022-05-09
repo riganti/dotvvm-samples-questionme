@@ -1,0 +1,5 @@
+﻿@viewModel object
+@baseType QuestionMe.Controls.QrCodeLink.QrCodeLink
+
+@js QrCodeLink-js
+
